@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! blocss-defaults v1.0.0 | MIT License | github.com/Blocss */
+/*! blocss-defaults v1.0.1 | MIT License | github.com/Blocss */
 
 /*----------------------------------------------------------------------------*\
     DEFAULTS
@@ -50,7 +50,7 @@ $blocss-breakpoints: (
 
 
 /*  Namespace
-    Would you like blocss classes to be prepended with a namespace?
+    Would you like blocss classes to be used with a different namespace?
 \*----------------------------------------------------------------------------*/
 
 $blocss-namespace: null !default;
