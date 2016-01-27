@@ -1,4 +1,4 @@
-# Blocss: settings.defaults – v1.0.0
+# Blocss: settings.defaults – v1.0.1
 
 The `defaults` module contains a few variables and settings that are
 **required** for using any of the rest of the framework.
