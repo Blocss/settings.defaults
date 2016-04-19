@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! blocss-defaults v1.0.1 | MIT License | github.com/Blocss */
+/*! blocss-defaults v1.0.2 | MIT License | github.com/Blocss */
 
 /*----------------------------------------------------------------------------*\
     DEFAULTS
@@ -43,8 +43,8 @@ $blocss-space-huge: $blocss-space*4 !default;
 \*----------------------------------------------------------------------------*/
 
 $blocss-breakpoints: (
-    'lap'       '(min-width: 480px)',
-    'desk'      '(min-width: 960px)'
+    'lap': '(min-width: 480px)',
+    'desk': '(min-width: 960px)'
 ) !default;
 
 
