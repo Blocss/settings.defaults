@@ -43,8 +43,8 @@ $blocss-space-huge: $blocss-space*4 !default;
 \*----------------------------------------------------------------------------*/
 
 $blocss-breakpoints: (
-    'lap'       '(min-width: 480px)',
-    'desk'      '(min-width: 960px)'
+    'lap': '(min-width: 480px)',
+    'desk': '(min-width: 960px)'
 ) !default;
 
 
