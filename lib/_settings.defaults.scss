@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! blocss-defaults v1.0.2 | MIT License | github.com/Blocss */
+/*! blocss-defaults v1.0.3 | MIT License | github.com/Blocss */
 
 /*----------------------------------------------------------------------------*\
     DEFAULTS
@@ -55,3 +55,11 @@ $blocss-breakpoints: (
 
 $blocss-namespace: null !default;
 $blocss-responsive-modifier: unquote("--") !default;
+
+
+
+/*  Flexbox
+    Would you like blocss to enable flexbox in its subcomponents?
+\*----------------------------------------------------------------------------*/
+
+$blocss-use-flexbox: false !default;
