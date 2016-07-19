@@ -1,5 +1,9 @@
 == HEAD
 
+== 1.0.3 (Jul 19, 2016)
+
+* Added setting for flexbox
+
 == 1.0.2 (Apr 19, 2016)
 
 * Better separation of breakpoints list
