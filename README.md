@@ -1,4 +1,6 @@
-# Blocss: settings.defaults – v1.0.3
+# Blocss: settings.defaults – v1.0.3 - Deprecated
+
+**This module has been moved to: ([https://github.com/Blocss/blocss](https://github.com/Blocss/blocss))**
 
 The `defaults` module contains a few variables and settings that are
 **required** for using any of the rest of the framework.
